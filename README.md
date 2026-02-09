@@ -8,7 +8,7 @@ This project transforms a Jupyter Notebook–based analysis into a fully interac
 
 👉 (Add your Streamlit Cloud URL after deployment)
 
-https://your-app-name.streamlit.app
+https://customer-shopping-behavior-analysis-dashboard-gglcha9rsmqtxxik.streamlit.app/
 
 📊 Features
 📌 Key Performance Indicators (KPIs)
