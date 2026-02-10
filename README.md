@@ -1,4 +1,4 @@
-🛍️ Customer Shopping Behavior Analysis Dashboard
+**🛍️ Customer Shopping Behavior Analysis Dashboard**
 
 An interactive Streamlit dashboard built to analyze customer purchasing behavior, spending patterns, demographics, and geographical distribution using real-world customer shopping data.
 
